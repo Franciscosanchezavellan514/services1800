@@ -1,0 +1,6 @@
+﻿KPI,Indicador,Meta,AS-IS (v0),Estado AS-IS,TO-BE (v1),Estado TO-BE,Cambio (pts),Efecto
+KC1,Duplicados,≤ 1%,2.71,❌,0.0,✅,-2.71,Mejora
+KC2,Completitud de canal,≥ 99%,97.39,❌,97.37,❌,-0.02,Empeora
+KC3,Consolidación del resultado,≥ 98%,98.37,✅,98.3,✅,-0.07,Empeora
+KC4,Normalización de motivo,≥ 100%,98.87,❌,100.0,✅,1.13,Mejora
+KC5,Valores fuera de rango,≤ 0.5%,0.46,✅,0.0,✅,-0.46,Mejora

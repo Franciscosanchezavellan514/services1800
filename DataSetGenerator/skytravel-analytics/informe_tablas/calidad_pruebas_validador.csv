@@ -1,0 +1,15 @@
+﻿Prueba,Caso,Resultado esperado,Resultado obtenido,Estado
+T01,Registro válido típico,Válido,Válido,✅ PASA
+T02,Duración en el límite inferior (30),Válido,Válido,✅ PASA
+T03,Duración bajo el límite (29),R-CAL-05 duración fuera de rango,R-CAL-05 duración fuera de rango,✅ PASA
+T04,Duración en el límite superior (1800),Válido,Válido,✅ PASA
+T05,Duración sobre el límite (1801),R-CAL-05 duración fuera de rango,R-CAL-05 duración fuera de rango,✅ PASA
+T06,Espera cero (0),Válido,Válido,✅ PASA
+T07,Espera negativa (−1),R-CAL-06 espera fuera de rango,R-CAL-06 espera fuera de rango,✅ PASA
+T08,Espera en el límite (900),Válido,Válido,✅ PASA
+T09,Espera sobre el límite (901),R-CAL-06 espera fuera de rango,R-CAL-06 espera fuera de rango,✅ PASA
+T10,Motivo en mayúsculas (COBRO),R-CAL-02 motivo no normalizado,R-CAL-02 motivo no normalizado,✅ PASA
+T11,"Canal ""(sin dato)""",R-CAL-03 canal sin dato,R-CAL-03 canal sin dato,✅ PASA
+T12,Resultado sin consolidar (vacío),R-CAL-01 sin resultado,R-CAL-01 sin resultado,✅ PASA
+T13,Primera aparición de un id,Válido,Válido,✅ PASA
+T14,Segunda aparición del mismo id,R-CAL-04 duplicado,R-CAL-04 duplicado,✅ PASA

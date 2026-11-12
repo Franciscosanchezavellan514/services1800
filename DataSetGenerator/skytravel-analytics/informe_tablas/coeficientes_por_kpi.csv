@@ -1,0 +1,156 @@
+KPI,Variable,Coeficiente,Odds ratio
+KPI01 Recontacto general,transferencias,1.5146,4.5476
+KPI01 Recontacto general,casos_previos_30d,0.9228,2.5162
+KPI01 Recontacto general,espera_seg,0.9167,2.5011
+KPI01 Recontacto general,cola_reclamos,-0.4004,0.67
+KPI01 Recontacto general,es_duracion_corta,0.3706,1.4486
+KPI01 Recontacto general,duracion_seg,0.3558,1.4273
+KPI01 Recontacto general,usuario_adulto_mayor,0.3336,1.396
+KPI01 Recontacto general,usuario_empresa,-0.2846,0.7523
+KPI01 Recontacto general,cola_soporte,-0.2392,0.7873
+KPI01 Recontacto general,cola_informacion,0.2308,1.2596
+KPI01 Recontacto general,canal_red_social,0.2178,1.2434
+KPI01 Recontacto general,canal_telefono,-0.1942,0.8235
+KPI01 Recontacto general,cola_facturacion,0.1841,1.2021
+KPI01 Recontacto general,turno_nocturno,0.1693,1.1845
+KPI01 Recontacto general,cola_tramites,0.1576,1.1707
+KPI01 Recontacto general,motivo_queja,0.1458,1.157
+KPI01 Recontacto general,motivo_consulta,-0.118,0.8887
+KPI01 Recontacto general,tiene_historial,0.1027,1.1082
+KPI01 Recontacto general,motivo_solicitud,0.0629,1.0649
+KPI01 Recontacto general,usuario_nuevo,-0.0609,0.9409
+KPI01 Recontacto general,turno_pm,-0.0565,0.945
+KPI01 Recontacto general,motivo_falla,-0.0563,0.9453
+KPI01 Recontacto general,es_espera_alta,0.0433,1.0443
+KPI01 Recontacto general,motivo_cobro,-0.0433,0.9576
+KPI01 Recontacto general,turno_am,-0.0354,0.9652
+KPI01 Recontacto general,turno_fin_semana,-0.0269,0.9735
+KPI01 Recontacto general,canal_correo,-0.0187,0.9815
+KPI01 Recontacto general,usuario_recurrente,-0.0137,0.9864
+KPI01 Recontacto general,canal_sin_dato,0.0135,1.0136
+KPI01 Recontacto general,es_multi_transferencia,-0.0073,0.9927
+KPI01 Recontacto general,canal_chat,-0.0028,0.9972
+KPI02 Motivos criticos,transferencias,1.579,4.8499
+KPI02 Motivos criticos,espera_seg,0.9757,2.6531
+KPI02 Motivos criticos,casos_previos_30d,0.9349,2.5469
+KPI02 Motivos criticos,cola_reclamos,-0.3944,0.6741
+KPI02 Motivos criticos,usuario_empresa,-0.3448,0.7084
+KPI02 Motivos criticos,usuario_adulto_mayor,0.3415,1.4071
+KPI02 Motivos criticos,duracion_seg,0.3166,1.3725
+KPI02 Motivos criticos,es_duracion_corta,0.2828,1.3268
+KPI02 Motivos criticos,cola_soporte,-0.2759,0.7589
+KPI02 Motivos criticos,cola_informacion,0.2619,1.2994
+KPI02 Motivos criticos,canal_red_social,0.2495,1.2834
+KPI02 Motivos criticos,cola_facturacion,0.2068,1.2298
+KPI02 Motivos criticos,canal_telefono,-0.202,0.8171
+KPI02 Motivos criticos,cola_tramites,0.1361,1.1458
+KPI02 Motivos criticos,turno_nocturno,0.1247,1.1328
+KPI02 Motivos criticos,motivo_falla,-0.1174,0.8892
+KPI02 Motivos criticos,motivo_queja,0.1174,1.1246
+KPI02 Motivos criticos,canal_sin_dato,0.0625,1.0644
+KPI02 Motivos criticos,tiene_historial,0.0565,1.0581
+KPI02 Motivos criticos,turno_fin_semana,-0.0564,0.9452
+KPI02 Motivos criticos,turno_am,-0.0493,0.9519
+KPI02 Motivos criticos,canal_chat,-0.0408,0.9601
+KPI02 Motivos criticos,es_multi_transferencia,0.0275,1.0279
+KPI02 Motivos criticos,usuario_nuevo,-0.0251,0.9752
+KPI02 Motivos criticos,canal_correo,-0.0198,0.9804
+KPI02 Motivos criticos,turno_pm,0.0189,1.0191
+KPI02 Motivos criticos,es_espera_alta,-0.0088,0.9912
+KPI02 Motivos criticos,usuario_recurrente,-0.0087,0.9913
+KPI02 Motivos criticos,motivo_solicitud,0.0,1.0
+KPI02 Motivos criticos,motivo_consulta,0.0,1.0
+KPI02 Motivos criticos,motivo_cobro,0.0,1.0
+KPI07 Historial de casos,transferencias,1.4965,4.466
+KPI07 Historial de casos,espera_seg,0.9149,2.4966
+KPI07 Historial de casos,casos_previos_30d,0.8173,2.2644
+KPI07 Historial de casos,cola_reclamos,-0.3612,0.6968
+KPI07 Historial de casos,es_duracion_corta,0.349,1.4177
+KPI07 Historial de casos,duracion_seg,0.3402,1.4053
+KPI07 Historial de casos,usuario_adulto_mayor,0.2812,1.3248
+KPI07 Historial de casos,usuario_empresa,-0.2586,0.7721
+KPI07 Historial de casos,cola_informacion,0.254,1.2892
+KPI07 Historial de casos,turno_nocturno,0.2355,1.2655
+KPI07 Historial de casos,cola_soporte,-0.2297,0.7948
+KPI07 Historial de casos,canal_red_social,0.1981,1.2191
+KPI07 Historial de casos,motivo_queja,0.1551,1.1678
+KPI07 Historial de casos,canal_telefono,-0.1529,0.8582
+KPI07 Historial de casos,motivo_consulta,-0.1481,0.8624
+KPI07 Historial de casos,cola_facturacion,0.1359,1.1455
+KPI07 Historial de casos,cola_tramites,0.1345,1.144
+KPI07 Historial de casos,motivo_solicitud,0.0869,1.0908
+KPI07 Historial de casos,motivo_falla,-0.0748,0.9279
+KPI07 Historial de casos,canal_sin_dato,0.069,1.0714
+KPI07 Historial de casos,turno_am,-0.0595,0.9422
+KPI07 Historial de casos,turno_pm,-0.0532,0.9482
+KPI07 Historial de casos,turno_fin_semana,-0.0525,0.9488
+KPI07 Historial de casos,canal_chat,-0.0418,0.959
+KPI07 Historial de casos,es_multi_transferencia,-0.041,0.9599
+KPI07 Historial de casos,motivo_cobro,-0.0302,0.9702
+KPI07 Historial de casos,es_espera_alta,0.0259,1.0262
+KPI07 Historial de casos,canal_correo,-0.0198,0.9804
+KPI07 Historial de casos,usuario_nuevo,-0.0059,0.9941
+KPI07 Historial de casos,usuario_recurrente,-0.0057,0.9943
+KPI07 Historial de casos,tiene_historial,0.0,1.0
+KPI08 Canales baja resolucion,transferencias,1.6419,5.1649
+KPI08 Canales baja resolucion,espera_seg,0.8855,2.4242
+KPI08 Canales baja resolucion,casos_previos_30d,0.8749,2.3986
+KPI08 Canales baja resolucion,cola_reclamos,-0.4158,0.6598
+KPI08 Canales baja resolucion,es_duracion_corta,0.4013,1.4938
+KPI08 Canales baja resolucion,usuario_adulto_mayor,0.3623,1.4367
+KPI08 Canales baja resolucion,duracion_seg,0.3457,1.413
+KPI08 Canales baja resolucion,usuario_empresa,-0.3064,0.7361
+KPI08 Canales baja resolucion,cola_informacion,0.2635,1.3015
+KPI08 Canales baja resolucion,cola_soporte,-0.2315,0.7933
+KPI08 Canales baja resolucion,motivo_queja,0.1921,1.2118
+KPI08 Canales baja resolucion,cola_facturacion,0.1904,1.2097
+KPI08 Canales baja resolucion,turno_nocturno,0.1584,1.1717
+KPI08 Canales baja resolucion,es_multi_transferencia,-0.1578,0.854
+KPI08 Canales baja resolucion,canal_red_social,0.1501,1.162
+KPI08 Canales baja resolucion,canal_correo,-0.1501,0.8606
+KPI08 Canales baja resolucion,motivo_consulta,-0.14,0.8694
+KPI08 Canales baja resolucion,cola_tramites,0.1329,1.1422
+KPI08 Canales baja resolucion,tiene_historial,0.1213,1.129
+KPI08 Canales baja resolucion,motivo_cobro,-0.0693,0.9331
+KPI08 Canales baja resolucion,motivo_solicitud,0.0623,1.0642
+KPI08 Canales baja resolucion,usuario_nuevo,-0.0617,0.9401
+KPI08 Canales baja resolucion,motivo_falla,-0.0591,0.9426
+KPI08 Canales baja resolucion,turno_pm,-0.0499,0.9513
+KPI08 Canales baja resolucion,es_espera_alta,0.0434,1.0443
+KPI08 Canales baja resolucion,turno_am,-0.0392,0.9616
+KPI08 Canales baja resolucion,turno_fin_semana,-0.0203,0.9799
+KPI08 Canales baja resolucion,usuario_recurrente,-0.0127,0.9874
+KPI08 Canales baja resolucion,canal_sin_dato,0.0,1.0
+KPI08 Canales baja resolucion,canal_telefono,0.0,1.0
+KPI08 Canales baja resolucion,canal_chat,0.0,1.0
+KPI10 Nocturno y fin de semana,transferencias,1.3619,3.9035
+KPI10 Nocturno y fin de semana,espera_seg,1.0003,2.7192
+KPI10 Nocturno y fin de semana,casos_previos_30d,0.9477,2.5798
+KPI10 Nocturno y fin de semana,es_duracion_corta,0.4072,1.5025
+KPI10 Nocturno y fin de semana,duracion_seg,0.3901,1.4771
+KPI10 Nocturno y fin de semana,usuario_adulto_mayor,0.3386,1.403
+KPI10 Nocturno y fin de semana,cola_reclamos,-0.3343,0.7158
+KPI10 Nocturno y fin de semana,usuario_empresa,-0.2552,0.7747
+KPI10 Nocturno y fin de semana,canal_red_social,0.2342,1.264
+KPI10 Nocturno y fin de semana,cola_informacion,0.2281,1.2562
+KPI10 Nocturno y fin de semana,cola_soporte,-0.2086,0.8117
+KPI10 Nocturno y fin de semana,cola_facturacion,0.1593,1.1727
+KPI10 Nocturno y fin de semana,motivo_solicitud,0.1483,1.1599
+KPI10 Nocturno y fin de semana,canal_telefono,-0.1463,0.8639
+KPI10 Nocturno y fin de semana,turno_fin_semana,-0.1398,0.8695
+KPI10 Nocturno y fin de semana,turno_nocturno,0.1398,1.1501
+KPI10 Nocturno y fin de semana,motivo_consulta,-0.1091,0.8966
+KPI10 Nocturno y fin de semana,cola_tramites,0.109,1.1151
+KPI10 Nocturno y fin de semana,motivo_queja,0.0956,1.1003
+KPI10 Nocturno y fin de semana,usuario_nuevo,-0.0803,0.9229
+KPI10 Nocturno y fin de semana,motivo_falla,-0.0727,0.9299
+KPI10 Nocturno y fin de semana,motivo_cobro,-0.0686,0.9337
+KPI10 Nocturno y fin de semana,canal_chat,-0.0615,0.9404
+KPI10 Nocturno y fin de semana,es_multi_transferencia,-0.05,0.9512
+KPI10 Nocturno y fin de semana,tiene_historial,0.0255,1.0258
+KPI10 Nocturno y fin de semana,usuario_recurrente,-0.021,0.9792
+KPI10 Nocturno y fin de semana,canal_correo,-0.0179,0.9822
+KPI10 Nocturno y fin de semana,canal_sin_dato,-0.0053,0.9947
+KPI10 Nocturno y fin de semana,es_espera_alta,0.0043,1.0043
+KPI10 Nocturno y fin de semana,turno_am,0.0,1.0
+KPI10 Nocturno y fin de semana,turno_pm,0.0,1.0

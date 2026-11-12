@@ -1,0 +1,52 @@
+# === Credenciales y secretos (NUNCA subir) ===
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+
+# === Python ===
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# === C# / .NET ===
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.dll
+*.exe
+*.pdb
+
+# === Node (por si acaso) ===
+node_modules/
+npm-debug.log*
+
+# === Flutter/Dart (por si acaso) ===
+.dart_tool/
+.flutter-plugins
+.packages
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Editores ===
+.vscode/
+.idea/
+*.swp

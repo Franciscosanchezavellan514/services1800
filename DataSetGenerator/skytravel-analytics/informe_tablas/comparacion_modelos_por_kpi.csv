@@ -1,0 +1,36 @@
+KPI,Modelo,Accuracy,Precision,Recall,F1,ROC-AUC
+KPI01 Recontacto general,1. Regresión Logística,0.8042,0.7413,0.8116,0.7749,0.8803
+KPI01 Recontacto general,2. Árbol de Decisión,0.7627,0.7149,0.7126,0.7138,0.83
+KPI01 Recontacto general,3. Random Forest,0.7885,0.7437,0.7484,0.7461,0.8653
+KPI01 Recontacto general,4. XGBoost,0.7902,0.7374,0.7684,0.7526,0.8643
+KPI01 Recontacto general,5. LightGBM,0.7959,0.7467,0.7695,0.7579,0.8639
+KPI01 Recontacto general,6. KNN (k=10),0.7474,0.7447,0.5958,0.662,0.8112
+KPI01 Recontacto general,7. Naive Bayes,0.7819,0.7844,0.6547,0.7137,0.8457
+KPI02 Motivos criticos,1. Regresión Logística,0.813,0.792,0.8056,0.7987,0.8926
+KPI02 Motivos criticos,2. Árbol de Decisión,0.7628,0.7451,0.7372,0.7411,0.8197
+KPI02 Motivos criticos,3. Random Forest,0.7963,0.8028,0.7393,0.7697,0.874
+KPI02 Motivos criticos,4. XGBoost,0.7717,0.7611,0.735,0.7478,0.857
+KPI02 Motivos criticos,5. LightGBM,0.7756,0.7703,0.7308,0.75,0.8511
+KPI02 Motivos criticos,6. KNN (k=10),0.7254,0.7429,0.6175,0.6744,0.7942
+KPI02 Motivos criticos,7. Naive Bayes,0.7687,0.7905,0.6774,0.7296,0.845
+KPI07 Historial de casos,1. Regresión Logística,0.8063,0.8131,0.7994,0.8062,0.8744
+KPI07 Historial de casos,2. Árbol de Decisión,0.7515,0.7682,0.7259,0.7465,0.8216
+KPI07 Historial de casos,3. Random Forest,0.7824,0.7921,0.7703,0.7811,0.8554
+KPI07 Historial de casos,4. XGBoost,0.7778,0.7829,0.7734,0.7781,0.8495
+KPI07 Historial de casos,5. LightGBM,0.7724,0.7788,0.7657,0.7722,0.8476
+KPI07 Historial de casos,6. KNN (k=10),0.7238,0.7462,0.6845,0.7141,0.7856
+KPI07 Historial de casos,7. Naive Bayes,0.7253,0.7695,0.6493,0.7043,0.8172
+KPI08 Canales baja resolucion,1. Regresión Logística,0.7975,0.7665,0.7797,0.773,0.8837
+KPI08 Canales baja resolucion,2. Árbol de Decisión,0.744,0.7143,0.7019,0.7081,0.8127
+KPI08 Canales baja resolucion,3. Random Forest,0.7861,0.757,0.7603,0.7586,0.8661
+KPI08 Canales baja resolucion,4. XGBoost,0.7755,0.7489,0.7408,0.7448,0.857
+KPI08 Canales baja resolucion,5. LightGBM,0.7784,0.7527,0.743,0.7478,0.8605
+KPI08 Canales baja resolucion,6. KNN (k=10),0.7278,0.733,0.6048,0.6627,0.8062
+KPI08 Canales baja resolucion,7. Naive Bayes,0.7622,0.773,0.6544,0.7088,0.8404
+KPI10 Nocturno y fin de semana,1. Regresión Logística,0.8094,0.7644,0.8193,0.7909,0.8951
+KPI10 Nocturno y fin de semana,2. Árbol de Decisión,0.7614,0.7208,0.7475,0.7339,0.8192
+KPI10 Nocturno y fin de semana,3. Random Forest,0.7963,0.7627,0.7797,0.7711,0.8762
+KPI10 Nocturno y fin de semana,4. XGBoost,0.7745,0.7362,0.7599,0.7479,0.8676
+KPI10 Nocturno y fin de semana,5. LightGBM,0.7778,0.7439,0.755,0.7494,0.867
+KPI10 Nocturno y fin de semana,6. KNN (k=10),0.7266,0.7444,0.5767,0.6499,0.8096
+KPI10 Nocturno y fin de semana,7. Naive Bayes,0.7691,0.7807,0.6609,0.7158,0.8506

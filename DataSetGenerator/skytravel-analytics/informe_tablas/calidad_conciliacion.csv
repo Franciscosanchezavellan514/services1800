@@ -1,0 +1,7 @@
+﻿Concepto,Registros,% del universo
+Registros recibidos en v0,12334,100.0
+− Duplicados eliminados,334,2.71
+− Rechazados por las reglas de limpieza,366,2.97
+= Cargados al DW (v1),11634,94.32
+− Sin resultado consolidado (excluidos del modelo),198,1.61
+= Usados por el modelo,11436,92.72

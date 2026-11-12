@@ -1,0 +1,11 @@
+﻿Regla del log (DW),Incidencia del validador,Validador (notebook),Log del DW,Diferencia,Lectura
+R01 Unicidad,Duplicados,334,334,0,Coincide
+R02 Formato de fecha,Fecha dd/MM/yyyy,628,628,0,Coincide
+R03 Etiquetas,Motivo no normalizado,136,136,0,Coincide
+R03b Completitud canal,Canal sin dato,316,316,0,Coincide
+R04 Rango,Duración fuera de rango,51,51,0,Coincide
+R04 Rango,Espera fuera de rango,61,61,0,Coincide
+R04 Rango,Transferencias fuera de rango,55,55,0,Coincide
+R04 Rango,Casos previos fuera de rango,51,51,0,Coincide
+R06 Resultado,Sin resultado consolidado,199,198,1,Difiere (ver nota)
+R07 Oportunidad,Carga tardía,634,614,20,Difiere (ver nota)

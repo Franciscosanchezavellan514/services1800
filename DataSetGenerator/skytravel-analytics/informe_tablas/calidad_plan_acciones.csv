@@ -1,0 +1,6 @@
+﻿Prioridad,Hallazgo,Acción,Responsable,Plazo,Indicador de seguimiento,Evidencia de cierre
+1,Duplicados en la integración,Regla de unicidad sobre id_interaccion antes de cargar,Calidad (A) / Operaciones (R),⟵ definir,KC1 ≤ 1%,Reporte de duplicados = 0 en la siguiente carga
+2,Canal sin dato,Campo canal obligatorio validado en el ACD,Operaciones (A/R),⟵ definir,KC2 ≥ 99%,Reporte de registros con canal faltante
+3,Motivo con etiquetas no normalizadas,Catálogo único de motivos en IVR y registro manual,Calidad (A) / Operaciones (R),⟵ definir,KC4 = 100%,Reporte de inconsistencias de categoría
+4,Valores fuera de rango,"Validación de rango en la captura (duración, espera)",Operaciones (R) / Calidad (A),⟵ definir,KC5 ≤ 0.5%,Reporte de valores fuera de rango
+5,Resultado sin consolidar,Definir criterio y plazo de consolidación del recontacto,Calidad (A) / Gerencia de Servicio,⟵ definir,KC3 ≥ 98%,Reporte de registros excluidos por resultado
